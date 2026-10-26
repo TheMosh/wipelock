@@ -52,3 +52,7 @@ WipeLock installs a HID-level `CGEventTap` that swallows every input event for t
 | `InputBlocker.swift` | The event tap that blocks input |
 | `OverlayWindow.swift` | The black countdown screen |
 | `main.swift` | App entry point |
+
+## License
+
+MIT. See [LICENSE](LICENSE).
